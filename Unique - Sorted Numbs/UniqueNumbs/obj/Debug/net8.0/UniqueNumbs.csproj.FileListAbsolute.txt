@@ -1,0 +1,14 @@
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\bin\Debug\net8.0\UniqueNumbs.exe
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\bin\Debug\net8.0\UniqueNumbs.deps.json
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\bin\Debug\net8.0\UniqueNumbs.runtimeconfig.json
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\bin\Debug\net8.0\UniqueNumbs.dll
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\bin\Debug\net8.0\UniqueNumbs.pdb
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\UniqueNumbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\UniqueNumbs.AssemblyInfoInputs.cache
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\UniqueNumbs.AssemblyInfo.cs
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\UniqueNumbs.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\UniqueNumbs.dll
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\refint\UniqueNumbs.dll
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\UniqueNumbs.pdb
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\UniqueNumbs.genruntimeconfig.cache
+C:\Users\Giorgi\Desktop\UniqueNumbs\UniqueNumbs\obj\Debug\net8.0\ref\UniqueNumbs.dll
